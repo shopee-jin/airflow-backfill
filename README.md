@@ -1,4 +1,4 @@
-[![Total alerts](https://img.shields.io/lgtm/alerts/g/shopee-jin/airflow-backfill.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/shopee-jin/airflow-backfill/alerts/)
+[![Language grade: Python](https://img.shields.io/lgtm/grade/python/g/shopee-jin/airflow-backfill.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/shopee-jin/airflow-backfill/context:python)
 
 
 # Airflow Backfill Plugin
